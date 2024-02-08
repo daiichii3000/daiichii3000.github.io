@@ -1,7 +1,7 @@
 let p = document.getElementById("grid");
 let y = 10;
 let x = 10;
-let chr = '#';
+let chr = '█';
 
 for(let i = 0; i < y; ++i){
 	for(let j = 0; j < x; ++j){
